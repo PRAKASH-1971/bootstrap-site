@@ -1,0 +1,6 @@
+#nav-home-tab:hover, 
+#nav-profile-tab:hover, 
+#nav-contact-tab:hover {
+    border-bottom: 3px solid black;
+}
+
